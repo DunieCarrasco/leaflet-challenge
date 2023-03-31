@@ -39,6 +39,8 @@ When you click a dataset (such as "All Earthquakes from the Past 7 Days"), you w
 
 * Your visualization should look something like the preceding map.
 
+<img width="1440" alt="Screenshot 2023-03-30 at 5 18 59 PM" src="https://user-images.githubusercontent.com/117786548/228993423-0b7b0626-7b7a-4388-a766-beaf6660a68d.png">
+
 # Requirements
 These requirements apply only to "Part 1: Create the Earthquake Visualization" as "Part 2" is optional with no extra points earning.
 
